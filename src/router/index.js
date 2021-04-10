@@ -21,7 +21,7 @@ export default new Router({
       component:Login,
     },
     {
-      path: '/notebookList',
+      path: '/notebooks',
       name: 'NotebookList',
       component:NotebookList,
     },
